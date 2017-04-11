@@ -30,7 +30,7 @@ subl .
 print(lizard)
 ```
 
-5.Convert your tuple into a list.
+   5.Convert your tuple into a list.
 
 6. Use ```extend()``` to add three more animals to your zoo.
 
